@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.HomeScout.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#F6F8FB</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_homescout</item>
+        <item name="postSplashScreenTheme">@style/Theme.HomeScout</item>
+    </style>
+
+    <style name="Theme.HomeScout" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#F6F8FB</item>
+        <item name="android:navigationBarColor">#F6F8FB</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

@@ -1,0 +1,1 @@
+"""HomeScout API application package."""
